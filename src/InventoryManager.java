@@ -2,7 +2,7 @@
 package src;
 
 import java.io.*;
-class InventoryManager {
+public class InventoryManager {
     private String[] keys = new String[100];
     private int[] values = new int[100];
     private int size = 0;
