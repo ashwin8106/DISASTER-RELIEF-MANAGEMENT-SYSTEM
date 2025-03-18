@@ -17,7 +17,7 @@ The **Disaster Relief Supply Chain and Inventory Management System** is a Java-b
 ## 🚀 Setup & Installation
 
 ### **1. Clone the Repository**
-  [git clone https://github.com/your-repository/DisasterReliefSupplyChain.git]
+  [git clone https://github.com/ashwin8106/DISASTER-RELIEF-MANAGEMENT-SYSTEM]
 
 ### **2. Compile the Project**
   javac -d bin -cp src Main.java src/inventory/*.java
